@@ -1,0 +1,19 @@
+{
+  "name": "type-ahead",
+  "version": "1.0.0",
+  "description": "A type ahead search form. Incorporates HTML, CSS and JavaScript. AJAX is used for type ahead feature. Part of Wes Bos JavaScript 30.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwalkerwebdev/Type-Ahead.git"
+  },
+  "author": "Brian Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwalkerwebdev/Type-Ahead/issues"
+  },
+  "homepage": "https://github.com/bwalkerwebdev/Type-Ahead#readme"
+}
